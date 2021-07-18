@@ -5,7 +5,7 @@
 - 📫 Reach me at chindahadele2@gmail.com
 
 
-![Adele's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-Nerd1&show_icons=true&theme=radical) [![Adele's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Logan)](https://github.com/AI-Nerd1/github-readme-stats)
+![Adele's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-Nerd1&show_icons=true&theme=dark) [![Adele's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Logan)](https://github.com/AI-Nerd1/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Nerd1)](https://github.com/AI-Nerd1/github-readme-stats)

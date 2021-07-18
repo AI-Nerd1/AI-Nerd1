@@ -9,6 +9,14 @@
 ![Adele's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-Nerd1&show_icons=true&theme=radical)
 [![Adele's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Logan)](https://github.com/AI-Nerd1/github-readme-stats)
 
+<a href="https://github.com/AI-Nerd1/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AI-Nerd1&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/AI-Nerd1/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AI-Nerd1&repo=convoychat" />
+</a>
+
+
 
 
 <!---

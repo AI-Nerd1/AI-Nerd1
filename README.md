@@ -8,7 +8,7 @@
 
 ![Adele's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-Nerd1&show_icons=true&theme=radical)
 
-[![Adele's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Logan)](https://github.com/AI-Nerd1/github-readme-stats)
+[![Adele's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Logan)] (https://github.com/AI-Nerd1/github-readme-stats)
 
 
 

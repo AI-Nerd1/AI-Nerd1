@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adele
 - 👀 I’m interested in AI and Robotics Programming
-- 🌱 I’m currently learning Python, C++, 
+- 🌱 Familiar with Python, C++
 - 💞️ I’m looking to engage in research work as well as intern
 - 📫 Reach me at chindahadele2@gmail.com
 

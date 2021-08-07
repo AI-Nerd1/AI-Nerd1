@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Adele
+<!--- - 👋 Hi, I’m Adele
 - 👀 I’m interested in AI and Robotics Programming
 - 🌱 Familiar with Python, C++
 - 💞️ I’m looking to engage in research work as well as intern
-- 📫 Reach me at chindahadele2@gmail.com
+- 📫 Reach me at chindahadele2@gmail.com --->
 
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Nerd1)](https://github.com/AI-Nerd1/github-readme-stats)--->
-[![Adele's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Logan&layout=compact)](https://github.com/AI-Nerd1/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Nerd1&layout=compact)](https://github.com/AI-Nerd1/github-readme-stats)
+<!---[![Adele's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Logan&layout=compact)](https://github.com/AI-Nerd1/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Nerd1&layout=compact)](https://github.com/AI-Nerd1/github-readme-stats)--->
 
 <!---[![Adele's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Logan)](https://github.com/AI-Nerd1/github-readme-stats) --->
 

@@ -16,3 +16,9 @@
 AI-Nerd1/AI-Nerd1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ ### Languages and Tools
+  ![python](https://img.shields.io/badge/python-py-orange)
+  ![java](https://img.shields.io/badge/java-JDK-blue)
+  ![C++](https://img.shields.io/badge/C%2B%2B-17-ff69b4)
+  ![matlab](https://img.shields.io/badge/matlab-GNU%20Octave-green)
+  

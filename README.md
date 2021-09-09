@@ -22,6 +22,7 @@ You can click the Preview link to take a look at your changes.
   ![C++](https://img.shields.io/badge/C%2B%2B-17-ff69b4)
   ![matlab](https://img.shields.io/badge/matlab-GNU%20Octave-green)
   
-  ### Tools
+  ### Operating Systems
   ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![OS](https://img.shields.io/badge/ROS-Foxy%20Fitzroy-orange)
   
